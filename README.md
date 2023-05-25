@@ -6,7 +6,7 @@
 
 ### A program bekér a felhasználótól egy mondatot, amely string ként bekerül az „x” változóba.
 
-![Szöveg bekérése](img/01_Szöveg bekérése.jpg)
+![Szöveg bekérése](https://www.mrkocka.hu/img/avatar_3.jpg)
 
 ### Ezt követően a filemuvelet() nevű fügvény meghívásával a data.txt filébe kerül elmentésre a mondat.
 
